@@ -1,1 +1,4 @@
-# Meeting-ai
+# Meeting AI Copilot
+Run:
+pip install -r requirements.txt
+streamlit run app.py
